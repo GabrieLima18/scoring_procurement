@@ -1,4 +1,4 @@
-# AI Procurement Agent — Sourcing & Supplier Analysis (V1)
+# Supplier Scoring & Ranking Tool (V1)
 
 Ferramenta em Python que lê uma matriz de scoring em Excel e gera um **ranking de fornecedores** com score ponderado, status de compliance e pontos de atenção para negociação.
 

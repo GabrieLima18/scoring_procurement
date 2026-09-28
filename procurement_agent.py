@@ -70,7 +70,7 @@ def gerar_relatorio(analises):
     )
 
     linhas = [
-        "ANÁLISE AUTOMÁTICA — AI PROCUREMENT AGENT",
+        "ANÁLISE AUTOMÁTICA — Supplier Scoring & Ranking Tool",
         "O score apoia a decisão e não substitui validação técnica/comercial.",
         "",
     ]
